@@ -21,7 +21,7 @@ JavaScript</ul></ls></div>
 <b>Databases</b></br>
   <ls>
   <ul>
-QL Server (Queries, Indexing, Stored Procedures, Performance Tuning)</br>
+SQL Server (Queries, Indexing, Stored Procedures, Performance Tuning)</br>
 SAP HANA (Analytical, Attribute & Calculation Views)</br>
   </ul>
   </ls>
@@ -59,6 +59,11 @@ Automation & Performance Optimization</br>
  </div>
 
  <div>
+  ## 🏆 Achievements & Badges
+
+  <p align="center">
+   <img src="https://www.credly.com/badges/0efcb053-ee29-4a8a-b16a-bbea406a950b"/>
+  </p>
   Complete ASP.NET Core & Entity Framework Development
 Foundation C# with Microsoft
 Microsoft Power BI Desktop for Business Intelligence
