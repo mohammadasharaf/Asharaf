@@ -51,9 +51,20 @@ Power BI</br>
 <b>Tools & Practices</b></br>
   <ls>
   <ul>
-Git, SDLC, Agile
+Git, SDLC, Agile</br>
+   Unit & Integration Testing</br>
+Automation & Performance Optimization</br>
   </ul>
   </ls>
  </div>
-Unit & Integration Testing
-Automation & Performance Optimization
+
+ <div>
+  Complete ASP.NET Core & Entity Framework Development
+Foundation C# with Microsoft
+Microsoft Power BI Desktop for Business Intelligence
+SAP Crystal Reports
+SAP Business Technology Platform
+SAP Cloud ERP
+Salesforce Admin & Development Training
+ </div>
+
