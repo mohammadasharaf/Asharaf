@@ -11,10 +11,12 @@ Extensive experience in REST API development, database optimization, system inte
 
 <div>
 <b>Programming & Web</b></br>
+ <ls>
+  <ul>
  C#, VB.NET </br>
  ASP.NET Core MVC, ASP.NET Web API </br>
 RESTful Services, Web Services </br>
-JavaScript</div>
+JavaScript</ul></ls></div>
 <div>
 <b>Databases</b></br>
 QL Server (Queries, Indexing, Stored Procedures, Performance Tuning)</br>
