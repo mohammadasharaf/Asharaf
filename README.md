@@ -9,11 +9,12 @@ Extensive experience in REST API development, database optimization, system inte
 
 ## 🛠️ Tech Expertise
 
+<div>
 <b>Programming & Web</b></br>
  C#, VB.NET </br>
  ASP.NET Core MVC, ASP.NET Web API </br>
 RESTful Services, Web Services </br>
-JavaScript
+JavaScript</div>
 Databases
 SQL Server (Queries, Indexing, Stored Procedures, Performance Tuning)
 SAP HANA (Analytical, Attribute & Calculation Views)
