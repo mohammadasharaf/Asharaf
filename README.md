@@ -19,8 +19,12 @@ RESTful Services, Web Services </br>
 JavaScript</ul></ls></div>
 <div>
 <b>Databases</b></br>
+  <ls>
+  <ul>
 QL Server (Queries, Indexing, Stored Procedures, Performance Tuning)</br>
 SAP HANA (Analytical, Attribute & Calculation Views)</br>
+  </ul>>
+  </ls>
 </div>
 
 <div>
