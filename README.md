@@ -61,9 +61,16 @@ Automation & Performance Optimization</br>
  <div>
   ## 🏆 Achievements & Badges
 
-  <p align="center">
-  <a  href="https://www.credly.com/badges/0efcb053-ee29-4a8a-b16a-bbea406a950b">Exploring SAP Business One, Web Client</h1>
-   
+  <p align="left">
+  <h5><a  href="https://www.credly.com/badges/0efcb053-ee29-4a8a-b16a-bbea406a950b">Exploring SAP Business One, Web Client</h5>
+  <h5><a  href="https://www.credly.com/badges/0efcb053-ee29-4a8a-b16a-bbea406a950b">Discovering SAP Crystal Reports</h5>
+   <h5><a  href="https://www.credly.com/badges/8fbe94c3-5ab4-4092-9043-983c3312e0db">Getting Started with Support from SAP (Support Accreditation)</h5>
+    <h5><a  href="https://www.credly.com/badges/6cc5c0c5-04bf-49cb-bd13-8193bcb09b4a">Getting Started with Web Development</h5>
+     <h5><a  href="https://www.credly.com/badges/03329a56-b0f4-45f7-a3b8-5b143b8ca914">Exploring SAP Cloud ERP</h5>
+    <h5><a  href="https://www.credly.com/badges/c6b40014-5ff0-4937-b63f-0a0d26bf39c3">Discovering SAP Business Technology Platform</h5>
+      <h1><a  href="https://www.credly.com/badges/0efcb053-ee29-4a8a-b16a-bbea406a950b">Exploring SAP Business One, Web Client</h5>
+     <h1><a  href="https://www.credly.com/badges/0efcb053-ee29-4a8a-b16a-bbea406a950b">Exploring SAP Business One, Web Client</h5>
+    <h1><a  href="https://www.credly.com/badges/0efcb053-ee29-4a8a-b16a-bbea406a950b">Exploring SAP Business One, Web Client</h5>
   </p>
   Complete ASP.NET Core & Entity Framework Development
 Foundation C# with Microsoft
