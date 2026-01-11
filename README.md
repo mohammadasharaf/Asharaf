@@ -35,7 +35,7 @@ Power BI</br>
 </br>
 <div>
 <b>Tools & Practices</b></br>
-Git, SDLC, Agile
+Git, SDLC, Agile
  </div>
 Unit & Integration Testing
 Automation & Performance Optimization
