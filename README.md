@@ -20,13 +20,18 @@ JavaScript</div>
 QL Server (Queries, Indexing, Stored Procedures, Performance Tuning)</br>
 SAP HANA (Analytical, Attribute & Calculation Views)</br>
 </div>
-Enterprise Integration
-ERP & Third-Party Integrations
-SAP B1 SDK (DI API, UI API, Service Layer, B1if)
-XSLT, XML, OAuth Authentication
-Reporting & BI
-SAP Crystal Reports
-Power BI
+
+<div>
+<b>Enterprise Integration</b></br>
+ERP & Third-Party Integrations</br>
+SAP B1 SDK (DI API, UI API, Service Layer, B1if)</br>
+XSLT, XML, OAuth Authentication </br>
+</div>
+
+<div><b>Reporting & BI</b></br>
+SAP Crystal Reports</br>
+Power BI</br>
+</div>
 Tools & Practices
 Git, SDLC, Agile
 Unit & Integration Testing
