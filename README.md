@@ -15,9 +15,11 @@ Extensive experience in REST API development, database optimization, system inte
  ASP.NET Core MVC, ASP.NET Web API </br>
 RESTful Services, Web Services </br>
 JavaScript</div>
-Databases
-SQL Server (Queries, Indexing, Stored Procedures, Performance Tuning)
-SAP HANA (Analytical, Attribute & Calculation Views)
+<div>
+<b>Databases</b></br>
+QL Server (Queries, Indexing, Stored Procedures, Performance Tuning)</br>
+SAP HANA (Analytical, Attribute & Calculation Views)</br>
+</div>
 Enterprise Integration
 ERP & Third-Party Integrations
 SAP B1 SDK (DI API, UI API, Service Layer, B1if)
