@@ -32,7 +32,10 @@ XSLT, XML, OAuth Authentication </br>
 SAP Crystal Reports</br>
 Power BI</br>
 </div>
-Tools & Practices
+</br>
+<div>
+<b>Tools & Practices</b></br>
 Git, SDLC, Agile
+ </div>
 Unit & Integration Testing
 Automation & Performance Optimization
