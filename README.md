@@ -23,25 +23,37 @@ JavaScript</ul></ls></div>
   <ul>
 QL Server (Queries, Indexing, Stored Procedures, Performance Tuning)</br>
 SAP HANA (Analytical, Attribute & Calculation Views)</br>
-  </ul>>
+  </ul>
   </ls>
 </div>
 
 <div>
 <b>Enterprise Integration</b></br>
+  <ls>
+  <ul>
 ERP & Third-Party Integrations</br>
 SAP B1 SDK (DI API, UI API, Service Layer, B1if)</br>
 XSLT, XML, OAuth Authentication </br>
+  </ul>
+  </ls>
 </div>
 
 <div><b>Reporting & BI</b></br>
+  <ls>
+  <ul>
 SAP Crystal Reports</br>
 Power BI</br>
+  </ul>
+  </ls>
 </div>
 </br>
 <div>
 <b>Tools & Practices</b></br>
+  <ls>
+  <ul>
 Git, SDLC, Agile
+  </ul>
+  </ls>
  </div>
 Unit & Integration Testing
 Automation & Performance Optimization
