@@ -58,14 +58,12 @@ Automation & Performance Optimization</br>
 <h7><a  href="https://www.udemy.com/certificate/UC-7352f4bd-1e69-4e38-a132-16086f80eece/">Salesforce Development Training for Beginners</a></h7></br>
 <h7><a  href="https://www.credly.com/badges/0efcb053-ee29-4a8a-b16a-bbea406a950b">Salesforce Admin certification course</a></h7></br>
 <h7><a  href="https://www.udemy.com/certificate/UC-8afb9bca-aae9-471d-adfe-6a1735dcc8ef/"> Microsoft Power BI Desktop for Business Intelligence</a></h7></br>
- <h7><a  href="https://www.linkedin.com/learning/certificates/8e4f5ceced13577b05372c50c1d1242a68ea3163f598b6e3a5451ec1f99e7353?u=22132331">SAP ERP Essential Training</a></h7></br>
- <h7><a  href="https://www.credly.com/badges/790d442b-cfdf-4880-a8b0-3c995912d273/linked_in_profile">Developing Extensions for SAP Business One and the Web Client - Record of Achievement</a></h7> </br>
-</p>
+<h7><a  href="https://www.linkedin.com/learning/certificates/8e4f5ceced13577b05372c50c1d1242a68ea3163f598b6e3a5451ec1f99e7353?u=22132331">SAP ERP Essential Training</a></h7></br>
+<h7><a  href="https://www.credly.com/badges/790d442b-cfdf-4880-a8b0-3c995912d273/linked_in_profile">Developing Extensions for SAP Business One and the Web Client - Record of Achievement</a></h7> </br>
+</p></div>
  
- </div>
  <div>
-  <h4>Education</h4>
+<h4>Education</h4>
 Master of Computer Applications (MCA) – Uttar Pradesh Technical University, 2012</br>
-B.A (Hindi) – DOEACC, 2011
- </div>
+B.A (Hindi) – DOEACC, 2011</div>
 
